@@ -1,7 +1,25 @@
 <!DOCTYPE html>
 <html>
 <body>
-<h1>Hello World</h1>
-<p>I'm hosted with GitHub Pages.</p>
+<h3>Select your favorite fruits:</h3>
+
+<form>
+  <label>
+    <input type="checkbox" name="fruit" value="apple">
+    Apple
+  </label><br>
+
+  <label>
+    <input type="checkbox" name="fruit" value="banana">
+    Banana
+  </label><br>
+
+  <label>
+    <input type="checkbox" name="fruit" value="orange">
+    Orange
+  </label><br>
+
+  <input type="submit" value="Submit">
+</form>
 </body>
 </html>
