@@ -312,7 +312,7 @@ Navbar
   transition: var(--transition);
 }
 .nav-link:hover {
-  color: var(--primary-700);
+  color: var(--primary-900);
 }
 
 .contact-link a {
@@ -465,11 +465,11 @@ Recipes
 .tags-list a {
   text-transform: capitalize;
   display: block;
-  color: var(--primary-500);
+  color: var(--grey-700);
   transition: var(--transition);
 }
 .tags-list a:hover {
-  color: var(--primary-700);
+  color: var(--grey-900);
 }
 .recipe {
   display: block;
