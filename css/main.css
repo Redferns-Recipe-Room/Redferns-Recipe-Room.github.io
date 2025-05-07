@@ -42,8 +42,8 @@ html {
   --green-dark: #0f5132;
 
   /* fonts  */
-  --headingFont: 'comic-sans', sans-serif;
-  --bodyFont: 'comic-sans', sans-serif;
+  --headingFont: 'Comic Sans MS', cursive, sans-serif;
+  --bodyFont: 'Comic Sans MS', cursive, sans-serif;
   --smallText: 0.7em;
   /* rest of the vars */
   --backgroundColor: var(--grey-50);
