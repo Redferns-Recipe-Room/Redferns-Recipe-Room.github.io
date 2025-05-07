@@ -465,11 +465,11 @@ Recipes
 .tags-list a {
   text-transform: capitalize;
   display: block;
-  color: var(--grey-500);
+  color: var(--primary-500);
   transition: var(--transition);
 }
 .tags-list a:hover {
-  color: var(--primary-500);
+  color: var(--primary-700);
 }
 .recipe {
   display: block;
