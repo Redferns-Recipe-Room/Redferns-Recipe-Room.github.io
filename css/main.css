@@ -305,7 +305,7 @@ Navbar
   text-align: center;
   font-size: 1.25rem;
   text-transform: capitalize;
-  color: var(--grey-900);
+  color: var(--primary-500);
   letter-spacing: var(--letterSpacing);
   padding: 1rem 0;
   border-top: 1px solid var(--primary-500);
