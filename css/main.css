@@ -420,7 +420,7 @@ Hero
   border-radius: var(--borderRadius);
 }
 .hero-text {
-  color: var(--grey-100);
+  color: var(--primary-600);
   text-align: center;
 }
 
